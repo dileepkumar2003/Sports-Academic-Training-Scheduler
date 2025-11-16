@@ -1,0 +1,12 @@
+606,Abhishek kumar,20,male,2-2-2020,5 years,94239409230,ballari
+911,Amit,20,male,1-1-2021,3 years,9821432112,ballari
+391,guru,20,male,23/05/2022,4 years,9380475875,ballari
+284,guru kiran,20,male,23/09/2023,5 years,9480023758,hospet
+934,basavaraj,20,male,12/03/2021,3 years,8867208949,bangolre
+288,arjun,21,male,09/05/2021,6 years,62874903759,hubbali
+142,sweety,20,female,01/02/2023,2 years,785683084685,mysore
+911,ramya,22,female,02/04/2020,5 years,65738957634,hassan
+536,devasena,23,female,01/01/2020,7 years,7589475348595,mandya
+141,kajol,21,female,24/05/2022,3 years,7589353829373,koppal
+630,kj,12,Malw,127y8,12,87687,khk
+293,Sangankal pavan ,20,male,2-3-2024,4 years,97332143234,sangankal

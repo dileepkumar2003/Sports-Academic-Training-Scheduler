@@ -1,0 +1,6 @@
+001,Rahul dravid,29/08/2019,28/07/2026,9,56478302,Karnataka,583104,BITM,1,Cricket,5
+002,Randhir singh,03/05/2013,08/10/2025,7,546278394,Karnataka,583104,BITM,2,Kabbadi,4.5
+003,Rajeev kumar,22/04/1994,19/03/2000,4,232146589,Jarkand,583104,BITM,3,Hockey,4
+004,Naveen ,05/04/2001,03/04/2004,5,5638902749,Andrapradesh,583104,BITM,4,Running,5
+005,Ramesh patil,05/12/2005,08/06/2007,4,275897504794,Telangana,583104,BITM,5,Kho kho,3.5
+006,Ravi shastri,2-2-2022,4 years,5,983523553,india,583104,BITM,1,cricket,4.6

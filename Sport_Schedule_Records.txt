@@ -1,0 +1,7 @@
+583104,BITM,1,Cricket,001,Rahul dravid,9:00 am,10:00 am
+583104,BITM,1,Cricket,001,Rahul dravid,9:00am,10:00am
+583104,BITM,1,Cricket,001,Rahul dravid,7:00am,8:00am
+583104,BITM,2,Kabbadi,002,Randhir singh,4:00pm,5:00pm
+583104,BITM,3,Hockey,003,Rajeev kumar,5:00pm,6:00pm
+583104,BITM,4,Running,004,Naveen,7:00pm,8:30pm
+583104,BITM,5,Kho kho,005,Ramesh patil,4:00pm,5:30pm

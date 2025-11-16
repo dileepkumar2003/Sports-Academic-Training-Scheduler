@@ -1,0 +1,5 @@
+001,Rahul dravid,present
+002,Randhir singh,present
+003,Rajeev kumar,absent
+004,Naveen,present
+005,Ramesh patil,absent

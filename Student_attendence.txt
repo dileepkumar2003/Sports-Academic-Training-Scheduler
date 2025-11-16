@@ -1,0 +1,10 @@
+606,Abhishek kumar,present
+911,Amit,present
+391,guru,absent
+284,guru kiran,absent
+934,basavaraj,present
+288,arjun,present
+142,sweety,absent
+911,ramya,absent
+536,devasena,present
+141,kajol,absent
